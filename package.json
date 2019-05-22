@@ -1,0 +1,21 @@
+{
+  "name": "@nogsantos/commitlint-conf",
+  "version": "0.1.0",
+  "description": "Shareble commitlint configuration",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https: //github.com/nogsantos/commitlint-conf.git"
+  },
+  "keywords": [
+    "commitlint",
+    "config",
+    "@nogsantos",
+    "git"
+  ],
+  "author": "Fabricio Nogueira",
+  "license": "MIT"
+}
